@@ -75,3 +75,7 @@ text-align: center;
  z-index: 999;
    margin-top: -32px;
 }
+.client{
+     background-image: url(../img/download.png);
+    background-position: right bottom, left top;
+}
